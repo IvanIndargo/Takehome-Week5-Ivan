@@ -1,0 +1,11 @@
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\bin\Debug\cuapekkk.exe.config
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\bin\Debug\cuapekkk.exe
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\bin\Debug\cuapekkk.pdb
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.Form1.resources
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.Properties.Resources.resources
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.csproj.GenerateResource.cache
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.exe
+C:\Users\MSI-PC\source\repos\cuapekkk\cuapekkk\obj\Debug\cuapekkk.pdb
